@@ -1,3 +1,6 @@
 Some text for header
-Chages from <master> - new changes!!!
+Chages from <master>
+Changes from <ferst>
+
+Text from master: new changes!!!
 
